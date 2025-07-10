@@ -102,6 +102,7 @@ header{
      justify-content: center;
      width: 400px;
      height: 350px;
+     cursor: pointer;
 } 
 
 }
